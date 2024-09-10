@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://nerywst.github.io/Desenvolvimento/qrcode/)
+- [Solution URL](https://your-solution-url.com)
+- [Live Site URL](https://nerywst.github.io/Desenvolvimento/qrcode/)
 
 ### Built with
 
@@ -32,4 +32,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yNerywst](https://www.frontendmentor.io/profile/nerywst)
+- Frontend Mentor - [@Nerywst](https://www.frontendmentor.io/profile/nerywst)

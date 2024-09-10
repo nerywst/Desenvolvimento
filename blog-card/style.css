@@ -1,15 +1,5 @@
-@font-face {
-    font-family: Figtree;
-    src: url(assets/fonts/Figtree-VariableFont_wght.ttf);}
-@font-face {
-    font-family: Figtree-Italic;
-    src: url(assets/fonts/Figtree-Italic-VariableFont_wght.ttf);}
-@font-face {
-    font-family: Figtree-ExtraBold;
-    src: url(assets/fonts/static/Figtree-ExtraBold.ttf);}
-@font-face {
-    font-family: Figtree-Semibold;
-    src: url(assets/fonts/static/Figtree-SemiBold.ttf);}
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
 
 body{
     background-color: #f4d04e;
@@ -24,19 +14,40 @@ body{
     border: 1px solid #111111;
     box-shadow: 10px 10px  #111111;
     border-radius: 1.5rem;
-    width: 20rem;
+    width: 23rem;
     height: auto;
     padding: 1.5rem;
 
 }
+.image{
+    padding-bottom: 1rem;
+}
 img{
     align-self: auto;
-    width: 20rem;
+    width: 23rem;
     height: auto;
     border-radius: 1.5rem;
 }
+.subject{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: #f4d04e;
+    width: 4.75rem;
+    height: 1.5rem;
+    border-radius: 0.25rem;
+}
+h2{
+    font-family: "Figtree", sans-serif;
+    text-indent:0.5em;
+    color: #111111;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0px;
+}
 h1{
-    font-family: Figtree-ExtraBold;
+    font-family: "Figtree", sans-serif;
+    font-weight: 800;
     color: #111111;
     font-size: 24px;
     line-height: 150%;
@@ -49,21 +60,9 @@ h1 a{
 h1 a:hover{
     color: #f4d04e;
 }
-h2{
-    font-family: Figtree-ExtraBold;
-    text-indent:0.5em;
-    width: 5rem;
-    height: 1.5rem;
-    color: #111111;
-    background-color: #f4d04e;
-    font-size: 14px;
-    line-height: 150%;
-    letter-spacing: 0px;
-    border-radius: 0.25rem;
 
-}
 h3{
-    font-family: Figtree;
+    font-family: "Figtree", sans-serif;
     color: #6b6b6b;
     font-size: 16px;
     line-height: 150%;
@@ -71,7 +70,7 @@ h3{
 
 }
 h4{
-    font-family: Figtree-ExtraBold;
+    font-family: "Figtree", sans-serif;
     text-indent: 0.5em;
     color: #111111;
     font-size: 14px;
@@ -86,10 +85,14 @@ img#avatar{
     display: inline-block;
     vertical-align: middle;
 }
+.text{
+    margin-right: 5rem;
+    width: 100%;
+}
 p{
-    font-family: Figtree;
+    font-family: "Figtree", sans-serif;
     color: #6b6b6b;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 150%;
     letter-spacing: 0px;
     

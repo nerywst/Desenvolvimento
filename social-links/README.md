@@ -21,8 +21,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/qr-code-with-css-flexbox-fVneg1IDXL)
-- [Live Site URL](https://nerywst.github.io/Desenvolvimento/qrcode/)
+- [Solution URL]()
+- [Live Site URL](https://nerywst.github.io/Desenvolvimento/social-links/)
 
 ### Built with
 

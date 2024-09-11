@@ -54,6 +54,10 @@ img{
     color: hsl(0,  0%, 100%);
     font-weight: 600;
 }
+.social-media ul{
+    list-style-position: inside;
+    padding-left: 0;
+}
 .social-media li{
     line-height: 2.5rem;
     background-color: hsl(0, 0%, 20%);

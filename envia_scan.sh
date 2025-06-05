@@ -7,7 +7,7 @@ GREEN='\033[0;32m'
 YELLOW='\033[1;33m'
 TYPE="$1"
 MAIL="$2"
-ATTACHMENT="/root/scan.txt"
+ATTACHMENT="/root/scanreport.txt"
 HOSTNAME=$(hostname)
 
 ################### Verificações ###################
